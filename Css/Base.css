@@ -1,0 +1,19 @@
+@media (max-width: 600px) {
+    body{
+        background-color: #FFFCE2;
+    }
+    .cabecalho{
+        height: 7vh;
+        background-color: #FFD644;
+    }
+    .cabecalho-div{
+        height: 100%;
+    }
+    .btn-menu{
+        background-color: #FFCF26;
+        stroke: #FFC700;
+        height: 60%;
+        width: 60%;
+        
+    }
+}

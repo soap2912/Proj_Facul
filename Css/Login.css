@@ -1,0 +1,50 @@
+.div-texto-investimentos{
+    color: white;
+    padding-top: 1vh;
+}
+.texto-investimentos{
+    font-size: 200% ;
+}
+main{
+    padding: 5%;
+}
+.painel{
+margin-top: 2%;
+height: 80vh;
+width: 110%;
+background-color: #FFFBF2;
+border: 1px solid black;
+border-radius: 1rem;
+}
+.painel-cabecalho{
+    height: 10%;
+    width: 100%;
+}
+select{
+    width: 100%;
+    height: 100%;
+}
+.botao{
+width: 100%;
+height: 15%;
+margin-top: 140%;
+background-color: #F0C93C;
+border: 0px;
+border-radius: 0.3rem;
+}
+.linha-input{
+    margin-top: 40%;
+}
+footer{
+    background-color: #F0C93C;
+    width: 100%;
+    height: 3vh;
+
+}
+.linha-cabecalho{
+    width: 33%;
+}
+img{
+    width: 60%;
+    height: 60%;
+}
